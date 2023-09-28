@@ -1,3 +1,22 @@
 .row1{
     width:50%
 }
+
+.videoCard{
+    display:block;
+    margin: auto;
+    width: 40%;
+}
+
+#live-chart{
+    display: block;
+    margin: auto;
+    width: 80%;
+    height: 500px;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    
+}
+.plot-container{
+    border: 1px solid black;
+}
