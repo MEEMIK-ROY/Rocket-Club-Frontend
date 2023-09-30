@@ -69,8 +69,6 @@ def update_chart(n):
         title="Live Chart",
         xaxis=dict(range=[0,10]),
         yaxis=dict(range=[0,100]),
-        width=400,
-        height=400
     )
 
     return {"data": [trace], "layout": layout}
